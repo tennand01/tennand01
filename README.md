@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm David 👋
 
-<!--
-**tennand01/tennand01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student developer building cool things and learning every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Learning
+
+- 💻 Writing cleaner code with best practices
+- ⚙️ Building projects with modern tools and frameworks
+- 🧠 Growing my problem-solving skills one bug at a time
+
+---
+
+## 📫 Reach Me
+
+- ✉️ Email: `your.email@example.com`
+- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/your-profile)
+
+---
+
+✨ Thanks for stopping by!
